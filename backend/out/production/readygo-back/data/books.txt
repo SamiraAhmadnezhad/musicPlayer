@@ -1,0 +1,4 @@
+harry potter 1&&hary&&Scary&&assets/images/hary1.jpg&&true&&false&&0&&1980&&true&&13&&true&&salam&&5&&0&&0&&false&&mina##very good##4##4##--smyra##dafa##1##0##--smyra##salam##1##5##--&&
+harry potter 2&&hary&&Scary&&assets/images/hary2.jpg&&true&&false&&0&&1980&&true&&10&&true&&salam&&5&&0&&0&&false&&mina##very good##4##4##--tina##very bad##2##4##--smyra##samra##0##1##--&&
+harry potter 3&&hary&&Scary&&assets/images/hary3.jpg&&true&&false&&0&&1980&&true&&10&&true&&salam&&5&&0&&0&&false&&mina##very good##4##4--tina##very bad##2##3&&
+harry potter 4&&hary&&Romantic&&assets/images/hary4.jpg&&true&&false&&0&&1980&&true&&15&&true&&salam khobi?&&5&&0&&0&&false&&mina##very good##4##4--tina##very bad##2##3&&
